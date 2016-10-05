@@ -79,7 +79,8 @@ canvas.onmousemove = function(event) {
  */
 canvas.onmousedown = function(event) {
   event.preventDefault();
-
+//
+//followed along
   // TODO: strike the cue ball with cue stick
 }
 
@@ -125,7 +126,7 @@ function update(elapsedTime) {
     }
   }
 }
-
+//l
 /**
   * @function render
   * Renders the current game state into a back buffer.
